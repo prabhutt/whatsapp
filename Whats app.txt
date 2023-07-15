@@ -5,3 +5,5 @@ Whats app
 2 status code
 
 3 settingscode
+
+4 hidding last seen
